@@ -1,0 +1,48 @@
+Receiver Core 0 Slice 0
+Core 0,Core 1,Core 2,Core 3,
+-,142.77 +/- 1.70,142.76 +/- 1.80,142.76 +/- 1.70,
+Receiver Core 1 Slice 0
+Core 0,Core 1,Core 2,Core 3,
+151.73 +/- 3.43,-,151.71 +/- 3.42,151.74 +/- 3.43,
+Receiver Core 2 Slice 0
+Core 0,Core 1,Core 2,Core 3,
+165.15 +/- 1.95,165.16 +/- 2.05,-,165.15 +/- 1.95,
+Receiver Core 3 Slice 0
+Core 0,Core 1,Core 2,Core 3,
+174.10 +/- 2.03,174.11 +/- 1.96,174.10 +/- 2.04,-,
+Receiver Core 0 Slice 1
+Core 0,Core 1,Core 2,Core 3,
+-,156.04 +/- 2.05,155.96 +/- 1.95,156.04 +/- 2.04,
+Receiver Core 1 Slice 1
+Core 0,Core 1,Core 2,Core 3,
+142.78 +/- 1.73,-,142.76 +/- 1.80,142.76 +/- 1.73,
+Receiver Core 2 Slice 1
+Core 0,Core 1,Core 2,Core 3,
+157.11 +/- 2.03,157.10 +/- 1.93,-,157.10 +/- 2.01,
+Receiver Core 3 Slice 1
+Core 0,Core 1,Core 2,Core 3,
+165.17 +/- 1.99,165.16 +/- 2.02,165.15 +/- 1.97,-,
+Receiver Core 0 Slice 2
+Core 0,Core 1,Core 2,Core 3,
+-,172.57 +/- 2.19,172.56 +/- 2.14,172.56 +/- 2.18,
+Receiver Core 1 Slice 2
+Core 0,Core 1,Core 2,Core 3,
+156.04 +/- 2.00,-,156.00 +/- 2.01,156.04 +/- 2.04,
+Receiver Core 2 Slice 2
+Core 0,Core 1,Core 2,Core 3,
+150.86 +/- 4.24,150.84 +/- 4.37,-,150.75 +/- 4.17,
+Receiver Core 3 Slice 2
+Core 0,Core 1,Core 2,Core 3,
+151.69 +/- 3.50,151.73 +/- 3.50,151.71 +/- 3.48,-,
+Receiver Core 0 Slice 3
+Core 0,Core 1,Core 2,Core 3,
+-,172.59 +/- 2.16,172.57 +/- 2.19,172.57 +/- 2.15,
+Receiver Core 1 Slice 3
+Core 0,Core 1,Core 2,Core 3,
+172.55 +/- 2.17,-,172.63 +/- 2.19,172.57 +/- 2.18,
+Receiver Core 2 Slice 3
+Core 0,Core 1,Core 2,Core 3,
+156.09 +/- 2.19,156.06 +/- 2.16,-,156.04 +/- 1.93,
+Receiver Core 3 Slice 3
+Core 0,Core 1,Core 2,Core 3,
+150.85 +/- 4.34,150.76 +/- 4.24,150.73 +/- 4.27,-,
